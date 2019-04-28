@@ -1,0 +1,43 @@
+
+
+.photo-block {
+	display:block;
+	margin-left:0 auto;
+	position:relative;
+	padding:2em 5em;
+	height:auto;
+	justify-content: center;
+	align-items: center;
+	text-align:center;
+    display: flex;
+}
+
+.menu {
+	display:block;
+	margin-left:23%;
+	margin-right:auto;
+	padding-top:5%;
+	position:relative;
+	height:2000px;
+
+}
+
+.menu h3{
+	font-family: 'Domine', serif;
+	font-size:1.5em;
+	color:rgb(184,134,11);
+	text-align:center;
+	margin-left:-5%;
+}
+
+.menu li {
+	color:rgb(120,120,120);
+	margin-left:1%;
+	margin-right:auto;
+}
+
+#acai {
+	border:solid;
+	width:70%;
+	border-color:rgb(120,120,120);
+}
